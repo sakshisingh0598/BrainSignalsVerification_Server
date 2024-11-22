@@ -24,7 +24,7 @@ This project involves the design and deployment of an Android application to enh
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/brain-signal-liveness-detection.git
+   [git clone https://github.com/your-repo/brain-signal-liveness-detection.git](https://github.com/sakshisingh0598/BrainSignalsVerification_Server.git)
    cd brain-signal-liveness-detection
    ```
 
